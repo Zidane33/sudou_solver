@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/zidan/.dotnet/store/|arch|/|tfm|",
+      "/Users/zidan/.nuget/packages"
+    ]
+  }
+}

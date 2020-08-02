@@ -1,0 +1,12 @@
+/Users/zidan/Code/sudoku_solver/bin/Debug/netcoreapp3.1/sudoku_solver.deps.json
+/Users/zidan/Code/sudoku_solver/bin/Debug/netcoreapp3.1/sudoku_solver.runtimeconfig.json
+/Users/zidan/Code/sudoku_solver/bin/Debug/netcoreapp3.1/sudoku_solver.runtimeconfig.dev.json
+/Users/zidan/Code/sudoku_solver/bin/Debug/netcoreapp3.1/sudoku_solver.dll
+/Users/zidan/Code/sudoku_solver/bin/Debug/netcoreapp3.1/sudoku_solver.pdb
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.csprojAssemblyReference.cache
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.AssemblyInfoInputs.cache
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.AssemblyInfo.cs
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.csproj.CoreCompileInputs.cache
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.dll
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.pdb
+/Users/zidan/Code/sudoku_solver/obj/Debug/netcoreapp3.1/sudoku_solver.genruntimeconfig.cache
